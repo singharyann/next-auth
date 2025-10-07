@@ -1,4 +1,4 @@
-# [Your Project Name]
+# next-auth
 
 A modern web application built with **Next.js** featuring secure **Login**, **Signup**, and **Signout** functionality.
 
